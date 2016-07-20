@@ -1,0 +1,12 @@
+/*
+Custom styles for Vanilla Widget
+*/
+.vanilla-widget-icon-wrap {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  a {
+  	width: 20%;
+  }	
+
+}
