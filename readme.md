@@ -1,9 +1,15 @@
 === Vanilla Widget ===
+
 Contributors: Miles 
+
+
 Donate link:http://barkingpixels.com
 Tags: socialmedia
+
 Requires at least: 3.6
+
 Tested up to: 3.6
+
 Stable tag: trunk
 
 A development widget boilerplate for widget development. Default configuration displays social media links with image icons.
